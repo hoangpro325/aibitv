@@ -784,3 +784,36 @@ https://webudit.salamus1.lol/lb/premium524/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=525
 https://webudit.salamus1.lol/lb/premium525/index.m3u8
+
+#--*.*--Thể thao 3. Quốc Tế VIP--*.*--#
+#EXTINF:-1 tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png" group-title="UHD ⚽⚽ 4K" tvg-id="" tvg-name="", ZIGGO SPORT UHD 3
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.team-tv.link:80/kV3mkGGkNz/EykM2Cnjwm/212655
+
+#EXTINF:-1 tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png" group-title="UHD ⚽⚽ 4K" tvg-id="" tvg-name="", Eleven Sports 4k
+http://superonetv.ml:2095/play/live.php?mac=00:1A:79:bc:71:25&stream=348127&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/222-hub-premier-2.png" group-title="UHD ⚽⚽ 4K" tvg-id="" tvg-name="", HubPremier 2
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1124634&extension=ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png" group-title="UHD ⚽⚽ 4K" tvg-id="" tvg-name="", Astro Supersport UHD9
+http://skylogic.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/146068
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/2560px-BT_Sport_logo_2019.svg.png" group-title="UHD ⚽⚽ 4K" tvg-id="" tvg-name="", BT Sport Ultimate
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:b8:45:b9&stream=1566281&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sky_Sports_UK_logo_2020.png" group-title="UHD ⚽⚽ 4K" tvg-id="" tvg-name="", Sky Sports Main Event UK UHD
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:61:31:52&stream=1299719&extension=ts
+
+#EXTINF:-1 group-title="UHD ⚽⚽ 4K" tvg-logo="https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/800/50105-3.png",V Sport UHD3
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://superonetv.ml:2095/play/live.php?mac=00:1A:79:bc:71:25&stream=31644&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" group-title="UHD ⚽⚽ 4K" tvg-id="" tvg-name="", Now Sport 4k
+http://superonetv.ml:2095/play/live.php?mac=00:1A:79:bc:71:25&stream=117957&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png" group-title="UHD ⚽⚽ 4K" tvg-id="" tvg-name="", Sky Sport F1 UK
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:55:7e:bf&stream=1566281&extension=ts
+
+#EXTINF:-1 group-title="UHD ⚽⚽ 4K" tvg-logo="https://www.cne-eg.com/uploads/logos/2021114237606.png",BeIN 4K
+http://superonetv.ml:2095/play/live.php?mac=00:1A:79:bc:71:25&stream=269457&extension=ts
