@@ -22,10 +22,6 @@ http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
 http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 
 #--*.*--K+--*.*--#
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/oj7f06wz_bannerdb2757bbbe3435e10bf50dce18cac0f9_296_168.webp",$ K+CINE HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluskeycinehd?key=20/2991888829/80keokeo
-https://hqth.me/kpluscinehd?id=kplus20/seasonid:2991/cine.mpd
 #EXTINF:-1 tvg-id="klifehd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/f5ve48sm_banner1611a7c5bf816e61726c0b811d28293c_296_168.webp" group-title="K+",$ K+LIFE HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -44,17 +40,8 @@ https://hqth.me/kplussports2hd?id=klifesports821/seasonid:1777288822/sports.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluskeykidshd?key18/9000029912/12kidskeokey
 https://hqth.me/kpluskidshd?id=kids10/seasonid:5552666172/kids.mpd
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp",$ K+ SPORT1 50FPS TV360
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kplussports1v?key99/738829912/20sportskeokey
-https://hqth.me/kplussports1v?id=klifesports476/seasonid:64537772881/sports.mpd
-
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp",$ K+ SPORT2 50FPS TV360
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kplussports2v?key=66/728819923/32sportskeokey
-https://hqth.me/kplussports2v?id=klifesports432/seasonid:74883999201/sports.mpd	 ㅤ
+ 
+  ㅤ
 #EXTINF:-1  tvg-id="klive1hd" group-title="K+" tvg-logo="https://raw.githubusercontent.com/Hannstcott/SunshineTr/main/logo%20k%2B/MyK%252B_Live_1.png",$ K+ LIVE 1
 #EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -130,9 +117,6 @@ https://hqth.me/HTVCMOVIES?getkey723/htvc.sml/code=728881jknd74jjfv7993hnx779174
 https://hqth.me/HTVCPLUS?getkey389/htvc.sml/code=728881jknd74jjfv7993hnx779174jd88cn39991764n8c7756x33u312/stream.sml/chunklist_b5123000.m3u8
 #EXTINF:-1 tvg-id="" group-title="SHOPPING" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/og5qy2hu_htvc-shopping_296_168.webp", HTVC Homeshopping
 https://hqth.me/HTVCHOMESHOPPING?getkey660/htvc.sml/code=728881jknd74jjfv7993hnx779174jd88cn39991764n8c7756x33u312/stream.sml/chunklist_b5123000.m3u8
-
-
-
 
 
 
