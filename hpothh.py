@@ -105,7 +105,7 @@ https://tiemnhazunn.click/vieon/vieon.php?id=vtc16-hd
 
 #--*.*--Kênh thời sự--*.*--#
 #EXTINF:0 tvg-id="antvhd" group-title="THỜI SỰ" tvg-logo="https://i.ibb.co/Nt17rCr/ANTV.png", ANTV HD
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/ANTV-SD-ABR/HTV-ABR/ANTV-SD-720p/chunks.m3u8
+https://fjp7rl09suliv.vcdn.cloud/channel/antv/channel/antv_1080p/chunks.m3u8
 #EXTINF:0 tvg-id="quochoi" group-title="THỜI SỰ" tvg-logo="https://i.ibb.co/HKT7QyG/QUOCHOI.png", QUỐC HỘI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58
 https://media.quochoitv.vn/live/qhtv_720p/index.m3u8
@@ -118,8 +118,7 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="THỜI SỰ" tvg-logo="https://i.ibb.co/0Yj99ss/VNEWS.png" ,VNews
 #EXTVLCOPT:http-user-agent="KIIP"
 https://zjizeoupprliv.vcdn.cloud/live/vnews/playlist.m3u8
-#EXTINF:-1 tvg-id="antg" group-title="THỜI SỰ" tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/CNN-invert-red-white-logo.png",CNN
-https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e6.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/live_dzones/cnn.smil/manifest.mpd
+ 
 
 
 
